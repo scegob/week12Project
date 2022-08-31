@@ -7,5 +7,7 @@ For week 12 of Promineo Tech, we have to build a basic crud application. A crud 
 The assignment asked for us to build this crud project follwoing these rules. 
 
 a.	Use a form to add new entities
+
 b.	Build a way for users to update or delete entities
+
 c.	Use Bootstrap and CSS to style your project
